@@ -1,4 +1,4 @@
-# Dictionary Bot
+# Dictionary Telegram Bot
 
 Dictionary Bot is a Telegram bot designed to help you quickly find definitions, pronunciations, and more for English words. Whether you're a language enthusiast, a student, or simply curious about words, Dictionary Bot is here to assist you in expanding your vocabulary and understanding.
 
